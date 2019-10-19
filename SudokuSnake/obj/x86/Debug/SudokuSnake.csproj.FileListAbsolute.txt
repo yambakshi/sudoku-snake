@@ -1,0 +1,16 @@
+D:\ים המלך\VS2010 Projects\SudokuProjects\SudokuProject\SudokuSnake\obj\x86\Debug\SudokuSnake.csproj.ResolveComReference.cache
+D:\ים המלך\VS2010 Projects\SudokuProjects\SudokuProject\SudokuSnake\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\ים המלך\VS2010 Projects\SudokuProjects\SudokuProject\SudokuSnake\obj\x86\Debug\SudokuSnake.Menu.resources
+D:\ים המלך\VS2010 Projects\SudokuProjects\SudokuProject\SudokuSnake\obj\x86\Debug\SudokuSnake.MyMessageBox.resources
+D:\ים המלך\VS2010 Projects\SudokuProjects\SudokuProject\SudokuSnake\obj\x86\Debug\SudokuSnake.MyTrackbar.resources
+D:\ים המלך\VS2010 Projects\SudokuProjects\SudokuProject\SudokuSnake\obj\x86\Debug\SudokuSnake.PrintForm.resources
+D:\ים המלך\VS2010 Projects\SudokuProjects\SudokuProject\SudokuSnake\obj\x86\Debug\SudokuSnake.Properties.Resources.resources
+D:\ים המלך\VS2010 Projects\SudokuProjects\SudokuProject\SudokuSnake\obj\x86\Debug\SudokuSnake.SudokuForm.resources
+D:\ים המלך\VS2010 Projects\SudokuProjects\SudokuProject\SudokuSnake\obj\x86\Debug\SudokuSnake.SolverForm.resources
+D:\ים המלך\VS2010 Projects\SudokuProjects\SudokuProject\SudokuSnake\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\ים המלך\VS2010 Projects\SudokuProjects\SudokuProject\SudokuSnake\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\ים המלך\VS2010 Projects\SudokuProjects\SudokuProject\SudokuSnake\bin\Debug\SudokuSnake.exe
+D:\ים המלך\VS2010 Projects\SudokuProjects\SudokuProject\SudokuSnake\bin\Debug\SudokuSnake.pdb
+D:\ים המלך\VS2010 Projects\SudokuProjects\SudokuProject\SudokuSnake\obj\x86\Debug\SudokuSnake.exe
+D:\ים המלך\VS2010 Projects\SudokuProjects\SudokuProject\SudokuSnake\obj\x86\Debug\SudokuSnake.pdb
+D:\ים המלך\VS2010 Projects\SudokuProjects\SudokuProject\SudokuSnake\obj\x86\Debug\SudokuSnake.SplashScreen.resources
