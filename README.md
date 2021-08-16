@@ -1,2 +1,2 @@
 # SudokuSnake
-[demo] (https://www.youtube.com/watch?v=DdxXcte1zeg)
+[demo](https://www.youtube.com/watch?v=DdxXcte1zeg)
